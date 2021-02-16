@@ -50,4 +50,3 @@ OndrejCabyCabelka
 [twitter]: https://mobile.twitter.com/aby43841264
 [youtube]: https://www.youtube.com/channel/UCsIAn7iZNYcd7BsEo7pUnSQ
 [instagram]: https://www.instagram.com/ondrej_caby_cabelka/
-list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
