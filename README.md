@@ -1,7 +1,7 @@
 # Caby
 OndrejCabyCabelka
 
-### Hi there, I'm Ondřej Čábelka - aka [Čaby][website] 👋
+### Hi there, I'm Ondřej Čábelka - aka [Čaby] 👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -12,11 +12,7 @@ OndrejCabyCabelka
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Making money by what I enjoy
 
----
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=Caby Spotify Playing" width="350" />](https://open.spotify.com/user/21crqjti67netoqqhv4pcnhry)
 
 ---
 
