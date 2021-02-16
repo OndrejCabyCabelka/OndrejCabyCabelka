@@ -39,14 +39,15 @@ OndrejCabyCabelka
 ---
 
 
-</details>
+
 
 <details>>
-
-</details>
-
-
 
 [twitter]: https://mobile.twitter.com/aby43841264
 [youtube]: https://www.youtube.com/channel/UCsIAn7iZNYcd7BsEo7pUnSQ
 [instagram]: https://www.instagram.com/ondrej_caby_cabelka/
+
+</details>
+
+
+
